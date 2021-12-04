@@ -1,0 +1,12 @@
+.draw{
+    background-image: url("../img/mosaico.png");
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.canvas{
+    background-image: url("../img/mosaico.png");
+    border: black 6px solid;
+}
